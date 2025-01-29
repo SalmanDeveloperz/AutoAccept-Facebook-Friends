@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Facebook Friend Request Auto-Accept",
+    "version": "1.0",
+    "description": "Automatically accept all Facebook friend requests.",
+    "permissions": ["scripting", "activeTab"],
+    "host_permissions": ["https://www.facebook.com/*"],
+    "content_scripts": [
+      {
+        "matches": ["https://www.facebook.com/friends*"],
+        "js": ["content.js"]
+      }
+    ]
+  }
+  
