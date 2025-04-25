@@ -9,6 +9,12 @@ Manually accepting **hundreds of friend requests** is time-consuming and frustra
 
 ---
 
+## 📜 Flowchart
+This flowchart explains how the extension works:
+![Facebook Auto Accept Flowchart](flowchart.png)
+
+---
+
 ## 🔧 Features
 - ✅ **Auto-injects an "Accept All" button** into Facebook’s UI to look like a built-in feature.  
 - ✅ **One-click bulk acceptance** of all friend requests.  
@@ -33,4 +39,4 @@ Manually accepting **hundreds of friend requests** is time-consuming and frustra
    
 ---
 ## 🎥 Demo
-🚀 Watch how it works: [Insert Video Link Here]
+🚀 Watch how it works: [Link](https://drive.google.com/file/d/1VpgS_X08LVp9H_WvGD1nOFhqtkHYnp6-/view?usp=sharing)
