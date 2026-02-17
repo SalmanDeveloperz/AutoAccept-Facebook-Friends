@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Facebook Friend Request Auto-Accept",
+    "name": "Fb Friend Request Auto-Accept",
     "version": "1.0",
-    "description": "Automatically accept all Facebook friend requests.",
+    "description": "Extension which will be automatically accept all Facebook friend requests in one shot !!!!.",
     "permissions": ["scripting", "activeTab"],
     "host_permissions": ["https://www.facebook.com/*"],
     "content_scripts": [
