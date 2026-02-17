@@ -6,7 +6,7 @@
         if (!header) return;
 
         let btn = document.createElement("button");
-        btn.innerText = "✔ Accept All";
+        btn.innerText = "Accept All";
         btn.id = "acceptAllBtn";
 
         btn.style.cssText = `
@@ -49,7 +49,7 @@
             let buttons = document.querySelectorAll('div[aria-label="Confirm"]');
 
             if (buttons.length === 0) {
-                alert("No pending friend requests!");
+                alert("No pending friend requests !!!!");
                 return;
             }
 
@@ -59,7 +59,7 @@
                 await new Promise(res => setTimeout(res, 500));
             }
 
-            alert(`🎉 Accepted ${totalAccepted} friend requests!`);
+            alert(`🎉 Accepted🎉 ${totalAccepted} friend requests!`);
         };
 
         header.parentNode.appendChild(btn);
