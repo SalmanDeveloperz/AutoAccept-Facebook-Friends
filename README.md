@@ -39,4 +39,4 @@ This flowchart explains how the extension works:
    
 ---
 ## 🎥 Demo
-🚀 Watch how it works: [Link](https://drive.google.com/file/d/1VpgS_X08LVp9H_WvGD1nOFhqtkHYnp6-/view?usp=sharing)
+Watch how it works: [Link](https://drive.google.com/file/d/1VpgS_X08LVp9H_WvGD1nOFhqtkHYnp6-/view?usp=sharing)
